@@ -1,7 +1,8 @@
 ### Hello 👋
 - I'm a student major in biomedical engineering.
-#### Interest
-- Bioinformatics
+### Interest ⚡
+- Bioinformatics  
+- 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:beong2306@gmail.com)
 <!--
 **yoonbang07/yoonbang07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
