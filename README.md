@@ -9,7 +9,7 @@
 
 ### Contact 📫
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:beong2306@gmail.com)
-<!--  
+<!--  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={insert_blogName}&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
 **yoonbang07/yoonbang07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 
 Here are some ideas to get you started:
