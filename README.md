@@ -5,9 +5,8 @@
 - Bioinformatics  
 - Data Science 
 ### Stack 🔭  
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>  
-	<img src="https://img.shields.io/badge/Python-%23734F96.svg?&style=for-the-badge&logo=Python&logoColor=white" />  
-<img alt="C++" src ="https://img.shields.io/badge/C++-3776AB.svg?&style=for-the-badge&logo=C++&logoColor=white"/>  
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 ### Contact 📫
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:beong2306@gmail.com)
