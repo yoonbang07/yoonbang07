@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 ### Contact 📫
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:beong2306@gmail.com) [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name})](https://kubig-2021-2-medical-data.tistory.com)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:beong2306@gmail.com)   [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://kubig-2021-2-medical-data.tistory.com)
 
 <!--  
 **yoonbang07/yoonbang07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
